@@ -1,0 +1,14 @@
+Configuring JuicyPixels-repa-0.7.1.0...
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+Preprocessing library for JuicyPixels-repa-0.7.1.0..
+Building library for JuicyPixels-repa-0.7.1.0..
+[1 of 1] Compiling Codec.Picture.Repa ( Codec/Picture/Repa.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Codec/Picture/Repa.o )
+
+[;1mCodec/Picture/Repa.hs:4:19: [;1m[35mwarning:[0m[0m[;1m [[;1m[35m-Wduplicate-exports[0m[0m[;1m][0m[0m[;1m
+    ‘imgData’ is exported by ‘imgData’ and ‘Img(..)’[0m[0m
+[;1m[34m  |[0m[0m
+[;1m[34m4 |[0m[0m          Img(..), [;1m[35mimgData[0m[0m
+[;1m[34m  |[0m[0m[;1m[35m                   ^^^^^^^[0m[0m
+[0m[0m[0mignoring (possibly broken) abi-depends field for packages
+Installing library in /Users/alokpandey/Desktop/arraysV/.stack-work/install/x86_64-osx/lts-12.4/8.4.3/lib/x86_64-osx-ghc-8.4.3/JuicyPixels-repa-0.7.1.0-50aU6fqIvy1I1Cfyn0dIF3
+Registering library for JuicyPixels-repa-0.7.1.0..
